@@ -7,7 +7,6 @@ Spring Retry provides an ability to automatically re-invoke a failed operation.
 	Ø Callbacks.
 
 **Maven Dependencies**
-
 <dependency> 
 	<groupId>org.springframework.retry</groupId>
 	 <artifactId>spring-retry</artifactId> 
